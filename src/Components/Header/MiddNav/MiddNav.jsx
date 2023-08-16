@@ -12,7 +12,6 @@ return (
                 <div className="search">
                     <input type="text" placeholder='Search Here..' />
                     <span><BsSearch /></span>
-                    
                 </div>
                 <div className="cart">
                     <span><HiOutlineShoppingBag /></span>
